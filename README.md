@@ -1,6 +1,6 @@
 Sharing Curated List of Machine learning papers to get you started in the world of Machine Learning Research.
 
-**If you want to collaborate in the repo, reach me @ [Mail](mailto:sujaykapadnis.33@gmail.com?subject=Test)**
+**If you want to collaborate in the repo, reach me @ [Mail](mailto:sujaykapadnis.33@gmail.com?subject=Contribution_To_Research_Papers)**
 # Intro to Neural Networks
 
 ## 1. Introduction to Neural Networks
