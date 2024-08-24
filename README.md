@@ -1,13 +1,16 @@
-Sharing Curated List of Machine learning papers to get you started in the world of Machine Learning Research.
+Sharing a Curated List of Machine learning papers to get you started in the world of Machine Learning Research.
 
 **If you want to collaborate in the repo, reach me @ [Mail](mailto:sujaykapadnis.33@gmail.com?subject=Contribution_To_Research_Papers)**
+### FAQ - How do you cope with this many papers?
+- It's understandable to feel overwhelmed with this much volume but take it at your own pace, the amount of time you'll need to complete the papers will be huge especially if you're new to the space but hang in there, believe in the process. You'll build your understanding and a method of reading a research paper. Best wishes and I hope you enjoy this long journey.
+
 # Intro to Neural Networks
 
 ## 1. Introduction to Neural Networks
 - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf)
 - [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 
-## 2. Foundation Models and its Applications
+## 2. Foundation Models and their Applications
 - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 - [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)
 - [Large Multimodal Models: Notes on CVPR 2023 Tutorial](https://arxiv.org/pdf/2306.14895.pdf)
